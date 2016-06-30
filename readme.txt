@@ -1,1 +1,0 @@
-A Chess Engine written in Java. The AI for automated moves is generated using alpha beta pruning.
